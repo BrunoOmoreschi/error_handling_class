@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Error_log_painel</string>
+    <string name="btDebug_txt">DEBUG LOG</string>
+    <string name="btVerbose_txt">VERBOSE LOG</string>
+    <string name="btWarning_txt">WARNING LOG</string>
+    <string name="btInfo_txt">INFO LOG</string>
+    <string name="btError_txt">ERROR LOG</string>
+</resources>
